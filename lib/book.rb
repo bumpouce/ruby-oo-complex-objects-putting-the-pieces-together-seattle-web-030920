@@ -1,6 +1,6 @@
 class Book
   
-  def initialize (title)
+  def initialize (title, author, page_count)
     @title = title
   end
 
